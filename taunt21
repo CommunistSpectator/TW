@@ -1,2 +1,2 @@
 say "https://github.com/CommunistSpectator/TW"
-bind semicolon exec taunt01
+bind z exec taunt01

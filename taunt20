@@ -1,2 +1,2 @@
 say "I am a 100% human controlled tee."
-bind semicolon exec taunt21
+bind z exec taunt21
