@@ -1,0 +1,2 @@
+say "oops2ez"
+bind semicolon "exec taunt12"

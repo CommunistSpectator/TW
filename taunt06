@@ -1,0 +1,2 @@
+say "WHAT DOES THE FOX SAY?!"
+bind semicolon "exec taunt07"

@@ -1,0 +1,7 @@
+player_skin "coala"
+bind mousewheelup "+fire;emote 3"
+bind mousewheeldown "+fire;emote 3"
+bind mouse1 "+fire;emote 3"
+bind mouse2 "+fire;emote 3"
+emote 3
+echo "D O N T   F U C K   U P   N O W"

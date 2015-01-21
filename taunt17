@@ -1,0 +1,2 @@
+say "bind f '+weapon5;inp_mousesens 350'"
+bind semicolon exec taunt18

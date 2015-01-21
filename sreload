@@ -1,0 +1,8 @@
+inp_mousesens 1500
+player_skin "warpaint"
+bind mouse1 "+weapon3;+fire;emote 9"
+bind mouse2 "+weapon2;emote 2"
+bind mousewheelup "+fire;emote 9"
+bind mousewheeldown "+fire;emote 9"
+emote 9
+echo - = [ S U P E R = S H O T G U N ] = -

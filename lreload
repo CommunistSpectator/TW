@@ -1,0 +1,8 @@
+inp_mousesens 300
+player_skin "bluekitty"
+bind mouse1 "+weapon5;+fire;emote 7"
+bind mouse2 "+weapon2;emote 2"
+bind mousewheelup "+fire;emote 7"
+bind mousewheeldown "+fire;emote 7"
+emote 7
+echo - = [ L A Z E R = S E L E C T E D ] = -

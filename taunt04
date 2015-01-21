@@ -1,0 +1,2 @@
+say "LOL"
+bind semicolon "exec taunt05"

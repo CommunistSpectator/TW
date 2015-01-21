@@ -1,0 +1,12 @@
+player_skin "redbopp"
++weapon1
+exec spinname01
+emote 10
+echo S O M E B O D Y   S T O L E   M Y   S I C K L E 
+#player_skin "warpaint"
+bind mouse1 "+weapon1;+fire;emote 9"
+bind mouse2 "+weapon2;emote 2"
+bind mousewheelup "+fire;emote 10;say BANG"
+bind mousewheeldown "+fire;emote 10;say BANG"
+#emote 9
+#echo - = [ S U P E R = S H O T G U N ] = -

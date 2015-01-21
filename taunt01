@@ -1,0 +1,2 @@
+say "That's going to leave a Marx."
+bind z "exec taunt02"

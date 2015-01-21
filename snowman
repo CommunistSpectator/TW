@@ -1,0 +1,3 @@
+player_name ☃
+bind z exec snowt01
+bind 1 "team -1;say Don't you cry, I'll be back again some day!"

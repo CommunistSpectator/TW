@@ -1,0 +1,2 @@
+say "Chump"
+bind semicolon "exec taunt10"

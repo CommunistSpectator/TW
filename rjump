@@ -1,0 +1,8 @@
+inp_mousesens 1500
+player_skin "saddo"
+bind mouse1 "+weapon4;+fire;emote 11"
+bind mouse2 "+weapon2;emote 2"
+bind mousewheelup "+fire;emote 11"
+bind mousewheeldown "+fire;emote 11"
+emote 11
+echo "- = [ R O C K E T = S E Q U E N C E = E N G A G E D ] = -"

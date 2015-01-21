@@ -1,0 +1,2 @@
+say "Lets kick some ice!"
+bind semicolon exec snowt01

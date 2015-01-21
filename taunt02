@@ -1,0 +1,2 @@
+say "XD"
+bind semicolon "exec taunt03"

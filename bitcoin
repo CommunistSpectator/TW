@@ -1,0 +1,3 @@
+player_name ฿
+bind z exec btctaunt01
+bind 1 "team -1;say Bitcoin Speculator"

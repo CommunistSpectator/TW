@@ -1,0 +1,2 @@
+say "Keep the change you filthy animal."
+bind semicolon "exec taunt13"

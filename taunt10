@@ -1,0 +1,2 @@
+say "Try aiming next time."
+bind semicolon "exec taunt11"

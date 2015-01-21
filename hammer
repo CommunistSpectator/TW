@@ -1,0 +1,8 @@
+inp_mousesens 1500
+player_skin "redbopp"
+bind mouse1 "+weapon1;+fire;+hook;emote 9"
+bind mouse2 "+weapon2;emote 2"
+bind mousewheelup "+fire;emote 6"
+bind mousewheeldown "+fire;emote 6"
+emote 6
+echo HAMMER TIME

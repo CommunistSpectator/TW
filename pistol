@@ -1,0 +1,9 @@
+exec convert2commie
+player_name "☭"
+player_skin "cammostripes"
+bind mousewheelup "+fire;emote 1"
+bind mousewheeldown "+fire;emote 1"
+bind mouse1 "+fire;emote 12"
+bind mouse2 "+emote"
+emote 2
+echo "[ I N V E N T O R Y   R E S E T ]"

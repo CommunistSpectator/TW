@@ -1,0 +1,2 @@
+say "Better Karl your doctor!"
+bind semicolon exec taunt20
