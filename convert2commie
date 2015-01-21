@@ -1,4 +1,4 @@
 bind 1 "team -1;say Communist Spectator"
 player_name ☭
-bind semicolon exec taunt01
+bind z exec taunt01
 
