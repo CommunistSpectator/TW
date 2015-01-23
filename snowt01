@@ -1,2 +1,2 @@
 say "Iced"
-bind semicolon exec snowt02
+bind z exec snowt02

@@ -1,2 +1,2 @@
 say "oops2ez"
-bind semicolon "exec taunt12"
+bind z "exec taunt12"

@@ -1,2 +1,2 @@
 say "Keep the change you filthy animal."
-bind semicolon "exec taunt13"
+bind z "exec taunt13"

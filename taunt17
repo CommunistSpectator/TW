@@ -1,2 +1,2 @@
-say "bind f '+weapon5;inp_mousesens 350'"
-bind semicolon exec taunt18
+say "bind y '+weapon5;inp_mousesens 350'"
+bind z exec taunt18

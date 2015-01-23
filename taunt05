@@ -1,2 +1,2 @@
 say "pwned."
-bind semicolon "exec taunt06"
+bind z "exec taunt06"

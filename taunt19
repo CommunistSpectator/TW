@@ -1,2 +1,2 @@
 say "Better Karl your doctor!"
-bind semicolon exec taunt20
+bind z exec taunt20

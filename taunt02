@@ -1,2 +1,2 @@
 say "XD"
-bind semicolon "exec taunt03"
+bind z "exec taunt03"

@@ -1,2 +1,2 @@
 say "Try aiming next time."
-bind semicolon "exec taunt11"
+bind z "exec taunt11"

@@ -1,2 +1,2 @@
 say "he he he..."
-bind semicolon "exec taunt09"
+bind z "exec taunt09"

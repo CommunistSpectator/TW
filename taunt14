@@ -1,2 +1,2 @@
 say "Maybe next time."
-bind semicolon "exec taunt15"
+bind z "exec taunt15"

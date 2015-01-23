@@ -1,2 +1,2 @@
 say "Freeze in hell."
-bind semicolon exec snowt04
+bind z exec snowt04

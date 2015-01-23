@@ -1,2 +1,2 @@
 say Suck it.
-bind semicolon exec taunt16
+bind z exec taunt16

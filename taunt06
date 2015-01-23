@@ -1,2 +1,2 @@
 say "WHAT DOES THE FOX SAY?!"
-bind semicolon "exec taunt07"
+bind z "exec taunt07"

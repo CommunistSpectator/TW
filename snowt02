@@ -1,2 +1,2 @@
 say "Chill out."
-bind semicolon exec snowt03
+bind z exec snowt03

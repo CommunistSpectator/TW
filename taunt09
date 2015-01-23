@@ -1,2 +1,2 @@
 say "Chump"
-bind semicolon "exec taunt10"
+bind z "exec taunt10"

@@ -1,2 +1,2 @@
 say "You are not sending me to the cooler."
-bind semicolon exec snowt05
+bind z exec snowt05

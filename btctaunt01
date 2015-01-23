@@ -1,2 +1,2 @@
 say BITCOIN 1000
-bind z exec btctaunt02
+bind backslash exec btctaunt02

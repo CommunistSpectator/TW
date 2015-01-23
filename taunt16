@@ -1,2 +1,2 @@
 say "[protip]bind mousewheelup +fire;bind mousewheeldown +fire"
-bind semicolon exec taunt17
+bind z exec taunt17

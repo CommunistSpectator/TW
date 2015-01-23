@@ -1,2 +1,2 @@
 say "hook with s"
-bind semicolon exec taunt19
+bind z exec taunt19
